@@ -120,7 +120,7 @@ body {
 }
 
 .slide-three {
-    background-image:url(images/slide_3.png);
+    background-image:url(../images/slide_3.png);
     background-size: cover;
     background-repeat: no-repeat; 
     width: 100%;
