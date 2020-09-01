@@ -54,7 +54,7 @@ body {
 }
 
 .slide-one {
-    background-image:url(images/slide_1.png);
+    background-image:url(../images/slide_1.png);
     background-size: cover;
     background-repeat: no-repeat;   
     width: 100%;
@@ -100,7 +100,7 @@ body {
     transition: background-color 0.4s ease 0s;
 }
 .slide-two {
-    background-image:url(images/slide_21.png);
+    background-image:url(../images/slide_21.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 100% 100%; 
